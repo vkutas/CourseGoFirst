@@ -16,7 +16,7 @@ import (
 	"fmt"
 )
 
-func main_f() {
+func main() {
 	var (
 		word1 string
 		word2 string
@@ -30,9 +30,9 @@ func main_f() {
 	fmt.Scan(&word4)
 	fmt.Scan(&name)
 
-	// fmt.Println(word4 + " - " + name)
-	// fmt.Println(word3 + " - " + name)
-	// fmt.Println(word2 + " - " + name)
-	// fmt.Println(word1 + " - " + name)
+	fmt.Println(word4 + " - " + name)
+	fmt.Println(word3 + " - " + name)
+	fmt.Println(word2 + " - " + name)
+	fmt.Println(word1 + " - " + name)
 
 }

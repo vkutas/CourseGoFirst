@@ -24,7 +24,7 @@ import (
 	"fmt"
 )
 
-func main_e() {
+func main() {
 	var (
 		drink   string
 		meal    string
