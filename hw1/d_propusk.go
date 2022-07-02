@@ -20,7 +20,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func main_d() {
 	var (
 		name    string
 		surname string
